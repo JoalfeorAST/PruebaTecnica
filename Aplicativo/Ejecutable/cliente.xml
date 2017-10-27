@@ -1,0 +1,22 @@
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\JoalfeorAST\Documents\NetBeansProjects\PruebaTecnica\dist\PruebaTecnica.jar</jar>
+  <outfile>C:\Users\JoalfeorAST\Desktop\final\clientes.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir></chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <manifest></manifest>
+  <icon>C:\Users\JoalfeorAST\Desktop\final\user.ico</icon>
+  <jre>
+    <path>C:\Program Files\Java\jdk1.8.0_121\jre</path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <minVersion></minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+  </jre>
+</launch4jConfig>
